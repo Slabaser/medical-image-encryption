@@ -1,0 +1,21 @@
+# Python ile ilgili dosyalar
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/ 
+
+# İşletim sistemi ve editör dosyaları
+.DS_Store 
+.idea/    
+
+# Streamlit ve Görüntü İşleme
+.streamlit/ 
+streamlit_static_resources/
+temp_decrypted.png 
+temp_encrypted.bin 
+
+# Log ve Çıktı dosyaları
+*.log
+*.out
+*.enc 
